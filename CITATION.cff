@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "OceanOPS Telecom Types Vocabulary"
+message: "If you use this vocabulary, please cite it."
+authors:
+  - family-names: "OceanOPS"
+    name-particle: ""
+    given-names: ""
+repository-code: "https://github.com/OceanOPS/oceanops-telecom-types"
+license: CC-BY-4.0

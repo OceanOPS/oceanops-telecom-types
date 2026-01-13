@@ -17,5 +17,8 @@ vocabulary currently exists.
 - `telecom-types.json` – canonical machine-readable vocabulary
 - `telecom-types.csv` – tabular representation
 
+> **Stability notice:**  
+> The `code` field is the stable identifier for each vocabulary term and **must not be changed once published**.
+
 ## License
 CC-BY 4.0

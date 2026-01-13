@@ -1,0 +1,112 @@
+[
+  {
+    "code": "goes",
+    "label": "GOES",
+    "description": "Satellite system operated for geostationary meteorological observation and data relay services."
+  },
+  {
+    "code": "hf-radio",
+    "label": "HF RADIO",
+    "description": "High-frequency (HF) radio communication system used for long-range data transmission."
+  },
+  {
+    "code": "argos",
+    "label": "ARGOS",
+    "description": "Satellite-based data collection and location system used for environmental monitoring platforms."
+  },
+  {
+    "code": "orbcomm",
+    "label": "ORBCOMM",
+    "description": "Satellite communication system providing low-data-rate messaging services via a low Earth orbit satellite constellation."
+  },
+  {
+    "code": "iridium",
+    "label": "IRIDIUM",
+    "description": "Satellite communication system providing global voice and data services via a constellation of low Earth orbit (LEO) satellites."
+  },
+  {
+    "code": "unknown",
+    "label": "UNKNOWN",
+    "description": "Unknown data telecommunication system."
+  },
+  {
+    "code": "inmarsat",
+    "label": "INMARSAT",
+    "description": "Satellite communication system providing global mobile voice and data services via geostationary satellites."
+  },
+  {
+    "code": "meteosat",
+    "label": "METEOSAT",
+    "description": "Geostationary meteorological satellite system providing environmental observation and data relay services."
+  },
+  {
+    "code": "argos3",
+    "label": "ARGOS3",
+    "description": "Argos-3 two-way satellite communication system supporting bidirectional data transmission."
+  },
+  {
+    "code": "vhf-radio",
+    "label": "VHF RADIO",
+    "description": "Very high-frequency (VHF) radio communication system used for short-range data transmission."
+  },
+  {
+    "code": "insat",
+    "label": "INSAT",
+    "description": "Indian National Satellite System providing communication, meteorological, and data relay services."
+  },
+  {
+    "code": "ais",
+    "label": "AIS",
+    "description": "Automated Identification System used for vessel identification and tracking, either directly or via satellite."
+  },
+  {
+    "code": "lrit",
+    "label": "LRIT",
+    "description": "Long-Range Identification and Tracking system used primarily for ship position reporting and maritime safety."
+  },
+  {
+    "code": "globalstar",
+    "label": "GLOBALSTAR",
+    "description": "Satellite communication system providing mobile voice and data services via a low Earth orbit satellite constellation."
+  },
+  {
+    "code": "gms",
+    "label": "GMS",
+    "description": "Geostationary Meteorological Satellite (GMS) data collection platform providing meteorological observation and data relay services."
+  },
+  {
+    "code": "vsat",
+    "label": "VSAT",
+    "description": "Very Small Aperture Terminal (VSAT) satellite communication system providing two-way data connectivity."
+  },
+  {
+    "code": "none",
+    "label": "NONE",
+    "description": "No data telecommunication system used (e.g. delayed mode only, manually retrieved after a cruise)."
+  },
+  {
+    "code": "other",
+    "label": "OTHER",
+    "description": "Other data telecommunication system not listed in this vocabulary."
+  },
+  {
+    "code": "beidou",
+    "label": "BEIDOU",
+    "description": "Chinese satellite navigation and communication system providing positioning, timing, and data communication services."
+  },
+  {
+    "code": "cellular",
+    "label": "CELLULAR",
+    "description": "Communication using terrestrial cellular wireless networks (e.g. GSM, GPRS, LTE)."
+  },
+  {
+    "code": "freewave",
+    "label": "FREEWAVE",
+    "description": "Radio communication system using FreeWave radio modems for long-range wireless data transmission."
+  },
+  {
+    "code": "starlink",
+    "label": "STARLINK",
+    "description": "Satellite communication system based on a constellation of low Earth orbit satellites providing broadband data connectivity."
+  }
+]
